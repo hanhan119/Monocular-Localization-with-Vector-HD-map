@@ -1,3 +1,5 @@
+Monocular-Localization-with-Vector-HD-map is a high-precision vehicle localization method based on monocular camera and high-precision vector map. In this project, we test the method in the simulation scene, including the test of typical urban scene, and discuss the impact of different number of road signs on the results.
+
 
 ## build:
 
